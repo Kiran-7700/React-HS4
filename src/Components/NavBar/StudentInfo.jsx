@@ -1,4 +1,4 @@
-export default [
+const Data=[
     {
         "userId": 1,
         "Name": "John",
@@ -40,3 +40,4 @@ export default [
         "condition": "Edit"
     }
 ]
+export default Data;
